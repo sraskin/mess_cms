@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails mess_cms: test" uuid="98e1cabd-2cd3-403f-a8fd-6b5a53cd3047">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:mess_cms_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails mess_cms: development" uuid="df1f7c9f-c444-4f75-9d10-2c42214b5802">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:mess_cms_development</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails mess_cms: production" uuid="24658514-aec0-42f3-8c11-aef7c480405f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:mess_cms_production</jdbc-url>
+    </data-source>
+  </component>
+</project>
